@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🔭 My major: Computer Engineering.
+### 🌱 I Want to be Web Developer.
+
 
 <!--
 **KimTaesong/KimTaesong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
